@@ -96,9 +96,9 @@ Other EDA is present in the _notebooks/Synthetic_Data_Creation.ipynb_
    ```
 
 ## Sample reports and metrics
-   ![](reports\figures\LogisticRegression_1_confusion_matrix.png)
+   ![](reports/figures/LogisticRegression_1_confusion_matrix.png)
 
-   ![](reports\sample_run.jpg)
+   ![](reports/sample_run.jpg)
 
 ## Serving and result analysis
-   ![](reports\model_miss_classification.jpg)
+   ![](reports/model_miss_classification.jpg)
