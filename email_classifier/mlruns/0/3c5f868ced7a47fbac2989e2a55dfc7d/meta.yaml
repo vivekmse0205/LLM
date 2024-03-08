@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/3c5f868ced7a47fbac2989e2a55dfc7d/artifacts
+deleted_time: 1708245410310
+end_time: 1708240055689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3c5f868ced7a47fbac2989e2a55dfc7d
+run_name: nervous-conch-707
+run_uuid: 3c5f868ced7a47fbac2989e2a55dfc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240055600
+status: 4
+tags: []
+user_id: vivekstorm

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/03e3ef9a17374ba985da5b4adbda7523/artifacts
+end_time: 1708246757620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03e3ef9a17374ba985da5b4adbda7523
+run_name: luminous-dolphin-208
+run_uuid: 03e3ef9a17374ba985da5b4adbda7523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708246494848
+status: 3
+tags: []
+user_id: vivekstorm

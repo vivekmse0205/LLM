@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/ace064672c784f4e8af4d108a630554e/artifacts
+deleted_time: 1708245464682
+end_time: 1708241117743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ace064672c784f4e8af4d108a630554e
+run_name: upset-fowl-301
+run_uuid: ace064672c784f4e8af4d108a630554e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708241116519
+status: 4
+tags: []
+user_id: vivekstorm

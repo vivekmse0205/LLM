@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/5242ae1802e04a27b91f2ab8b4b65d0e/artifacts
+deleted_time: 1708245464698
+end_time: 1708240939591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5242ae1802e04a27b91f2ab8b4b65d0e
+run_name: wise-owl-676
+run_uuid: 5242ae1802e04a27b91f2ab8b4b65d0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240938426
+status: 4
+tags: []
+user_id: vivekstorm

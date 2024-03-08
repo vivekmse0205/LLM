@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/00c68d3c9eeb40259361f19ea0c8213b/artifacts
+end_time: 1708245783088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c68d3c9eeb40259361f19ea0c8213b
+run_name: grandiose-grub-458
+run_uuid: 00c68d3c9eeb40259361f19ea0c8213b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708245765013
+status: 3
+tags: []
+user_id: vivekstorm

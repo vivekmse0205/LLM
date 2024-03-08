@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/7946bb3b428c43c39083b4f51dbc1dff/artifacts
+deleted_time: 1708245666822
+end_time: 1708245524884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7946bb3b428c43c39083b4f51dbc1dff
+run_name: masked-wren-771
+run_uuid: 7946bb3b428c43c39083b4f51dbc1dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708245523611
+status: 4
+tags: []
+user_id: vivekstorm

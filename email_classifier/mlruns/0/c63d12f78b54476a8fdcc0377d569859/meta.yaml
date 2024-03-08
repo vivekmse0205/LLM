@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/c63d12f78b54476a8fdcc0377d569859/artifacts
+end_time: 1708247580714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c63d12f78b54476a8fdcc0377d569859
+run_name: aged-gnu-982
+run_uuid: c63d12f78b54476a8fdcc0377d569859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708247571757
+status: 3
+tags: []
+user_id: vivekstorm

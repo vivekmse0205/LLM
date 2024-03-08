@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/7812a3efa82e41e78d0b66729c1a7332/artifacts
+deleted_time: 1708245410304
+end_time: 1708240110659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7812a3efa82e41e78d0b66729c1a7332
+run_name: fun-crab-643
+run_uuid: 7812a3efa82e41e78d0b66729c1a7332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240110563
+status: 4
+tags: []
+user_id: vivekstorm

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/b247162d031e4e58b563b179252e726f/artifacts
+end_time: 1708247591516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b247162d031e4e58b563b179252e726f
+run_name: rare-loon-868
+run_uuid: b247162d031e4e58b563b179252e726f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708247580731
+status: 3
+tags: []
+user_id: vivekstorm

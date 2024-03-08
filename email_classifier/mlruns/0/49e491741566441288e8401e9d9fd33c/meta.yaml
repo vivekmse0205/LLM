@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/49e491741566441288e8401e9d9fd33c/artifacts
+end_time: 1708245819197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49e491741566441288e8401e9d9fd33c
+run_name: welcoming-quail-315
+run_uuid: 49e491741566441288e8401e9d9fd33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708245791755
+status: 3
+tags: []
+user_id: vivekstorm

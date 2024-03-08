@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/b2291c2ab0f04e95876f8620736990df/artifacts
+end_time: 1708247525355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2291c2ab0f04e95876f8620736990df
+run_name: big-pig-173
+run_uuid: b2291c2ab0f04e95876f8620736990df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708247512292
+status: 3
+tags: []
+user_id: vivekstorm

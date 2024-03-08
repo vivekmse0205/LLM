@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/bf381d086abc486497a619f14a50f93e/artifacts
+end_time: 1708247476780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf381d086abc486497a619f14a50f93e
+run_name: flawless-vole-517
+run_uuid: bf381d086abc486497a619f14a50f93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708247234942
+status: 3
+tags: []
+user_id: vivekstorm

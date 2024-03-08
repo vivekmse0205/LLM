@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/25d818f86c9f47a2b1b705e5bf6ce7af/artifacts
+deleted_time: 1708245410270
+end_time: 1708240203038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 25d818f86c9f47a2b1b705e5bf6ce7af
+run_name: colorful-wolf-360
+run_uuid: 25d818f86c9f47a2b1b705e5bf6ce7af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240202944
+status: 4
+tags: []
+user_id: vivekstorm

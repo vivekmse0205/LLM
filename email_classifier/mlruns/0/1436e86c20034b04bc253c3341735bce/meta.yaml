@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/1436e86c20034b04bc253c3341735bce/artifacts
+deleted_time: 1708245410269
+end_time: 1708240401627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1436e86c20034b04bc253c3341735bce
+run_name: big-kite-875
+run_uuid: 1436e86c20034b04bc253c3341735bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240398072
+status: 4
+tags: []
+user_id: vivekstorm

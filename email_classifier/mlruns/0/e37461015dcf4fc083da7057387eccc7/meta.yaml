@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/e37461015dcf4fc083da7057387eccc7/artifacts
+end_time: 1708246191076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e37461015dcf4fc083da7057387eccc7
+run_name: monumental-hawk-350
+run_uuid: e37461015dcf4fc083da7057387eccc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708246145580
+status: 3
+tags: []
+user_id: vivekstorm

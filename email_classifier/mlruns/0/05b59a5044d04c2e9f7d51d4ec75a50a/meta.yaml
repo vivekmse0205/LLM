@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/05b59a5044d04c2e9f7d51d4ec75a50a/artifacts
+deleted_time: 1708245464635
+end_time: 1708244617107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 05b59a5044d04c2e9f7d51d4ec75a50a
+run_name: secretive-conch-516
+run_uuid: 05b59a5044d04c2e9f7d51d4ec75a50a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708244615541
+status: 4
+tags: []
+user_id: vivekstorm

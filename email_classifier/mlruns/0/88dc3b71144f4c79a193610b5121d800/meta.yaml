@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/88dc3b71144f4c79a193610b5121d800/artifacts
+end_time: 1708245980243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88dc3b71144f4c79a193610b5121d800
+run_name: efficient-shrimp-699
+run_uuid: 88dc3b71144f4c79a193610b5121d800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708245941433
+status: 3
+tags: []
+user_id: vivekstorm

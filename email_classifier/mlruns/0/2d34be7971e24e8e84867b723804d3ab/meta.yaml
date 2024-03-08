@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/2d34be7971e24e8e84867b723804d3ab/artifacts
+deleted_time: 1708245410346
+end_time: 1708239746348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2d34be7971e24e8e84867b723804d3ab
+run_name: aged-rook-482
+run_uuid: 2d34be7971e24e8e84867b723804d3ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708239746203
+status: 4
+tags: []
+user_id: vivekstorm

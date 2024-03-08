@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/c4cd27f241494c7f89f0b49425c2bf68/artifacts
+deleted_time: 1708245410342
+end_time: 1708239845229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c4cd27f241494c7f89f0b49425c2bf68
+run_name: sedate-jay-163
+run_uuid: c4cd27f241494c7f89f0b49425c2bf68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708239845120
+status: 4
+tags: []
+user_id: vivekstorm

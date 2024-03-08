@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/vivekstorm/Desktop/projects/e-mail/mlruns/0/e7eebc7f96c847b796f76414956fc307/artifacts
+deleted_time: 1708245410255
+end_time: 1708240612204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e7eebc7f96c847b796f76414956fc307
+run_name: monumental-calf-999
+run_uuid: e7eebc7f96c847b796f76414956fc307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708240609351
+status: 4
+tags: []
+user_id: vivekstorm
