@@ -1,0 +1,34 @@
+# Ignore common Python files and directories
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore build artifacts and compiled files
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+__pycache__/
+
+# Ignore local development files
+.dockerignore
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore data and model files (modify as needed)
+data/
+models/
+
+# Ignore log files
+*.log

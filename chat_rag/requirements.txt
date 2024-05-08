@@ -1,0 +1,11 @@
+langchain
+chromadb
+pypdf
+langchain_community
+pytest
+rank_bm25
+unstructured
+streamlit
+fastembed
+faiss_cpu
+openai
